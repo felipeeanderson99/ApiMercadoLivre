@@ -1,0 +1,9 @@
+
+1. Levando em consideração que a atividade irá desenvolver o cadastro de alunos e também a consulta dos dados dos alunos, quantas chamadas e quais os métodos que serão desenvolvidos na API?
+
+R: Os principais são : Cadastrar Aluno e Buscar Aluno.
+
+
+2. Levando em consideração apenas o cadastro de alunos, quantos campos será necessário preencher para atingir o requisito mínimo do cadastro?
+
+R:Será necessario preencher apenas 5 campos obrigatorios para o cadastro do aluno e 3 campos serão opcionais.
